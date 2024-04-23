@@ -13,7 +13,7 @@
     "authereum": "0.0.4-beta.164",
     "bootstrap": "^4.4.1",
     "fortmatic": "^2.0.6",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "lodash": "^4.17.15",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
